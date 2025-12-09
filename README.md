@@ -6,7 +6,7 @@
 
 **The easiest way to pass screenshots to LLMs.**
 
-The Official [Model Context Protocol (MCP)](https://modelcontextprotocol.io/) server for **capturl.com**. This tool allows AI Agents (Cursor, Claude, or any MCP client) to directly fetch screenshots using capturl URLs.
+The Official [Model Context Protocol (MCP)](https://modelcontextprotocol.io/) server for [**capturl.com**](https://capturl.com). This tool allows AI Agents (Cursor, Claude, or any MCP client) to directly fetch screenshots using capturl URLs.
 
 > Note: This MCP server only works with unencrypted Capturls. Encrypted Capturls are not supported.
 
