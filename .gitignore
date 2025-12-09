@@ -1,0 +1,12 @@
+.logs
+.env
+**/.DS_Store
+
+# Go cache
+.gocache
+
+# GoReleaser output
+dist/
+
+# Binary, if built manually
+capturl_mcp
